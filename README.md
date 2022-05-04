@@ -1,2 +1,3 @@
-# Celaning_hotel_bookings_data
- A short demonstration on my ability to clean data on R!
+# Hotel_bookings_data
+A short demonstration on my ability to clean, analyse, and visualize data to generate business insights
+using data from a hotel's booking system!
